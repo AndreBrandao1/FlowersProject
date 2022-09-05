@@ -1,0 +1,8 @@
+nav ul {
+    display: flexbox;
+}
+
+nav {
+    color: white;
+    background-color: rebeccapurple;
+}
